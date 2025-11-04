@@ -3,9 +3,10 @@ public class Basic {
         System.out.println("Hello, World!");
         System.out.println("Hello Jenkins"); 
         System.out.println("Pipeline");
-        System.out.println("Pipeline job");   
+          
     }
 }
+
 
 
 
